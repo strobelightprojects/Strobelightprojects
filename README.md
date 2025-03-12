@@ -1,11 +1,19 @@
 # Personal Introduction
-A brief section about who you are, what you do, and your interests. This can include your professional role, educational background, or areas of expertise.
+Hi! I'm Matthew, a passionate software development enthusiast currently pursuing my studies in Software Enginnering. I have experience in software engineering, system design, and performance optimization. I enjoy working on challenging projects and continuously improving my skills. 
 
 # Skills and Technologies
-Highlight the programming languages, tools, and technologies you are proficient in. This can be done through text, badges, or icons.
+- **Programming Languages**: Python, Java, C++, JavaScript
+- **Databases**: MySQL
+- **Tools & Technologies**: Git, Docker, Linux, VS Code
+- **Other**: Agile methodologies, Software Testing, Debugging, Performance Tuning
 
 # Projects and Work
-Showcase your significant or favorite projects. You can include links to repositories, descriptions of what each project entails, and any notable achievements.
+## a
+
+- [GitHub Repository](#)
+
 
 # GitHub Statistics
-Some users include dynamic GitHub stats like their number of contributions, most used languages, or streaks. This can be done using GitHub widgets and badges.
+![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewStrobel&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewStrobel&layout=compact&theme=radical)
