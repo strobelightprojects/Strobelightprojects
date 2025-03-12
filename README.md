@@ -2,7 +2,7 @@
 Hi! I'm Matthew, a passionate software development enthusiast currently pursuing my studies in Software Enginnering. I have experience in software engineering, system design, and performance optimization. I enjoy working on challenging projects and continuously improving my skills. 
 
 # Skills and Technologies
-- **Programming Languages**: Python, Java, C++, JavaScript
+- **Programming Languages**: Python, Java, C#, JavaScript
 - **Databases**: MySQL
 - **Tools & Technologies**: Git, Docker, Linux, VS Code
 - **Other**: Agile methodologies, Software Testing, Debugging, Performance Tuning
