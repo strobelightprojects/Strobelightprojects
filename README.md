@@ -14,6 +14,5 @@ Hi! I'm Matthew, a passionate software development enthusiast currently pursuing
 
 
 # GitHub Statistics
-![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Strobelightprojects&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Strobelightprojects&layout=compact&theme=radical)
